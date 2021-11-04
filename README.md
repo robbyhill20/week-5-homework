@@ -1,4 +1,4 @@
-# week-5-homework
+# Day Planner 
 Week 5 Homework
 - The motivation behind this project was to create a day planner
 - Utilized Javascript with Bootstrap and moment.JS for style and time formatting
